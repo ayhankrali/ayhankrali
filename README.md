@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Ayhan Krala, I am 23 years old.</h1>
+<h1 align="left"> Introduction & Bio </h1>
 <h3 align="center">A passionate Java developer from Bulgaria</h1>
 
 
