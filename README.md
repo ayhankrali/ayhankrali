@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👧 I am Ayhan krala , I am 23 years old from Bulgaria. 🇧🇬 , @advanceacademy
+- 👧 I am Ayhan krala , I am 23 years old from Bulgaria. 🇧🇬
+
+- 🎓 I am Java student at @advanceacademy . 
 
 - 🌱 I’m currently learning **JAVA, SPRING, Database,Data Stuctures**
 
