@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **ayhankrali99@gmail.com**
 
+- 🤹 Other interests: 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aayhh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayhh99" height="30" width="40" /></a>
@@ -29,4 +31,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhankrali&show_icons=true&locale=en" alt="ayhankrali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayhankrali&" alt="ayhankrali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayhankrali&" alt="ayhankrali" /></p> 
+
+
+
+
