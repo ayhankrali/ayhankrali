@@ -18,7 +18,7 @@
 - 📫 How to reach me : **ayhankrali99@gmail.com**
   
 
-- 🔭 **PROJECTS** : a project I developed in a team  during Advance Academy 2023 - 
+- 🔭 **PROJECTS** : A project I developed in a team during the Java Advanced Module - ( OOP & RESTfulApi ) 2023 - 
 
 
 
