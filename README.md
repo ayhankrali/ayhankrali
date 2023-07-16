@@ -2,9 +2,6 @@
 <h1 align="left">👋 Introduction & Bio </h1>
 <h3 align="center">A passionate Java developer from Bulgaria</h1>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayhankrali&label=Profile%20views&color=0e75b6&style=flat" alt="ayhankrali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
