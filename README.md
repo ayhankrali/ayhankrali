@@ -18,12 +18,16 @@
 - 📫 How to reach me : **ayhankrali99@gmail.com**
   
 
-- 🔭 **PROJECTS** : A project I developed in a team during the Java Advanced Module - ( OOP & RESTfulApi ) 2023 - 
+- 🔭 **PROJECTS :**
+- 🏨**Hotel Reservation System**-  A project I developed in a team during the Java Advanced Module - ( OOP & RESTfulApi ) 2023 - https://github.com/ayhankrali/Hotel-Reservation-System
 
 
 
 
-- 🤹 Other interests:
+
+- 🤹 Other interests  : Read about personalities who changes the wolrd.
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
