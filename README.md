@@ -13,14 +13,17 @@
 
 - 🎓 I am Backend Java student at Advance Academy    https://advanceacademy.bg/
 
-- 🌱 I’m currently learning **JAVA, SPRING, Database,Data Stuctures**
+- 🌱 I’m currently learning : **JAVA, SPRING, Database,Data Stuctures**
 
-- 📫 How to reach me **ayhankrali99@gmail.com**
-
-- 🤹 Other interests:
+- 📫 How to reach me : **ayhankrali99@gmail.com**
   
 
-- 🔭 **PROJECTS** : 
+- 🔭 **PROJECTS** :
+
+
+
+
+- 🤹 Other interests:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
