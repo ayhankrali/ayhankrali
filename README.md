@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👦 I am Ayhan Krala , I am 23 years old from Bulgaria. 🇧🇬
+- 👦 My name is Ayhan Krala , I am 23 years old from Bulgaria. 🇧🇬
 
 - 🎓 I am Backend Java student at Advance Academy    https://advanceacademy.bg/
 
