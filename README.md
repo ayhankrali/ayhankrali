@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning : **JAVA, SPRING, Database,Data Stuctures**
 
-- 📫 How to reach me :  **ayhankrali99@gmail.com**
+- 📫 How to reach me : **ayhankrali99@gmail.com**
   
 
 - 🔭 **PROJECTS :**
