@@ -24,7 +24,7 @@
 
 
 
-- 🤹 Other interests  : Read about  the personalities who changes the wolrd.
+- 🤹 Other interests  : Read about  the personalities who changes the world.
 
 </p>
 
