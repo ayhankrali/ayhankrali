@@ -1,6 +1,6 @@
 
 <h1 align="left">👋 Introduction & Bio </h1>
-<h3 align="center">A Passionate Java developer from Bulgaria</h1>
+<h3 align="center">A Passionate  Backend Java developer from Bulgaria</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayhankrali&label=Profile%20views&color=0e75b6&style=flat" alt="ayhankrali" /> </p>
 
