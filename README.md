@@ -8,7 +8,7 @@
 
 - 👦 Hi, I'am  Ayhan Krala, 23 years old from Bulgaria.
 
-- 🎓 I graduated from Advance Academy https://advanceacademy.bg/ in September 2023 ( Backend Java student)   
+- 🎓 I graduated from Advance Academy https://advanceacademy.bg/ in September 2023.  
 
 - 🌱 I’m currently learning : **JAVA, SPRING, Database,Data Stuctures**
 
