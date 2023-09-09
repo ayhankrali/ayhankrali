@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👦 Hi, I'am  Ayhan Krala, 23 years old from Bulgaria.
+ .
 
 - 🎓 I graduated from Advance Academy https://advanceacademy.bg/ in September 2023.  
 
