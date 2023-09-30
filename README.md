@@ -17,8 +17,6 @@
   
 
 - 🔭 **PROJECTS :**
-- 🏨**Hotel Reservation System**-  A project I developed in a team during the Java Advanced Module - ( OOP & RESTfulApi ) 2023 - https://github.com/ayhankrali/Hotel-Reservation-System
-
 - 🏠**Advance Real Estate** -  This project I developed in a team too during the Java Fundamentals Module - ( The Startup  ) 2023 - https://github.com/ayhankrali/Advance-Real-Estate-Project
 
 
