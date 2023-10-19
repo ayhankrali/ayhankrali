@@ -17,13 +17,13 @@
   
 
 - 🔭 **PROJECTS :**
-- 🏠**Advance Real Estate** -  This project I developed in a team too during the Java Fundamentals Module - ( The Startup  ) 2023 - https://github.com/ayhankrali/Advance-Real-Estate-Project
+- 🏠**Advance Real Estate** -  This project I developed in a team during the Java Fundamentals Module - ( The Startup  ) 2023 - https://github.com/ayhankrali/Advance-Real-Estate-Project
 
 
 
 
 
-- 🤹 Other interests  : Read about  the personalities who changes the world.
+- 🤹 Other interests: Read about  the personalities who change the world.
 
 </p>
 
