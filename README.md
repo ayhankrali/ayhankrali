@@ -11,7 +11,7 @@
 
 - 🎓 I graduated from Advance Academy https://advanceacademy.bg/ in September 2023.
   
--  🌱 I’m currently working on my **Job Application Project** : 
+-  🌱 I’m currently working on my **Job Application Project** : https://github.com/ayhankrali/JobApplication
 
 - 🌱 I’m currently learning : **JAVA, SPRING, Database,Data Stuctures**
 
